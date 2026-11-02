@@ -1,0 +1,14 @@
+D:\projects\ConsoleApp5\Bonus Task\bin\Debug\net10.0\Bonus Task.exe
+D:\projects\ConsoleApp5\Bonus Task\bin\Debug\net10.0\Bonus Task.deps.json
+D:\projects\ConsoleApp5\Bonus Task\bin\Debug\net10.0\Bonus Task.runtimeconfig.json
+D:\projects\ConsoleApp5\Bonus Task\bin\Debug\net10.0\Bonus Task.dll
+D:\projects\ConsoleApp5\Bonus Task\bin\Debug\net10.0\Bonus Task.pdb
+D:\projects\ConsoleApp5\Bonus Task\obj\Debug\net10.0\Bonus Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\ConsoleApp5\Bonus Task\obj\Debug\net10.0\Bonus Task.AssemblyInfoInputs.cache
+D:\projects\ConsoleApp5\Bonus Task\obj\Debug\net10.0\Bonus Task.AssemblyInfo.cs
+D:\projects\ConsoleApp5\Bonus Task\obj\Debug\net10.0\Bonus Task.csproj.CoreCompileInputs.cache
+D:\projects\ConsoleApp5\Bonus Task\obj\Debug\net10.0\Bonus Task.dll
+D:\projects\ConsoleApp5\Bonus Task\obj\Debug\net10.0\refint\Bonus Task.dll
+D:\projects\ConsoleApp5\Bonus Task\obj\Debug\net10.0\Bonus Task.pdb
+D:\projects\ConsoleApp5\Bonus Task\obj\Debug\net10.0\Bonus Task.genruntimeconfig.cache
+D:\projects\ConsoleApp5\Bonus Task\obj\Debug\net10.0\ref\Bonus Task.dll
